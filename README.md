@@ -7,6 +7,9 @@
 5. Авто-тесты писать не требуется
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/wr65xkxqq7pxir5n?svg=true)](https://ci.appveyor.com/project/SmolenskiyAV/ahj-22-6-dnd)
+
+https://smolenskiyav.github.io/ahj-22_6.dnd/
 
 ### Trello
 
@@ -76,7 +79,9 @@
 
 ---
 
-### Modern Image Manager
+### Modern Image Manager* (задача со звёздочкой)
+
+Важно: эта задача не является обязательной. Её (не)выполнение не влияет на получение зачёта по ДЗ.
 
 #### Легенда
 
